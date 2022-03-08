@@ -1,2 +1,2 @@
-# flask-chat-bot
+# Python ChatBot 
 Chatbot in Python with Flask
